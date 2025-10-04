@@ -1,2 +1,2 @@
 # React-project-
-Project is about e-commerce 
+Project is about e-commerce business 
